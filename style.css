@@ -269,6 +269,14 @@ section{
         margin: 0px 3px ;
         padding: 2px 10px;
     }
+    .navigation{
+        display: flex;
+        
+    }
+    .navigation a{
+        font-size: small;
+        font-weight:800;
+    }
     .main{
         background-size: cover;
 
